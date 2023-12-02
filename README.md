@@ -1,5 +1,10 @@
-### Hi there 👋
--- [![image](https://github.com/AliakseiKuliavets/AliakseiKuliavets/assets/132812649/595b0b34-efce-40bc-911b-adde8ac96056)](https://leetcode.com/kulevetsav/)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+### LeetCode Profile
+You can find my [LeetCode profile](https://leetcode.com/kulevetsav/) here, where I solve programming problems.
+
 
 <!--
 **AliakseiKuliavets/AliakseiKuliavets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
