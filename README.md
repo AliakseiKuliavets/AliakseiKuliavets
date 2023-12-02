@@ -1,5 +1,5 @@
 ### Hi there 👋
--- [Мой профиль на LeetCode](https://leetcode.com/kulevetsav/)
+-- [![image](https://github.com/AliakseiKuliavets/AliakseiKuliavets/assets/132812649/595b0b34-efce-40bc-911b-adde8ac96056)](https://leetcode.com/kulevetsav/)
 
 <!--
 **AliakseiKuliavets/AliakseiKuliavets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
