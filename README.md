@@ -3,7 +3,7 @@
 </div>
 
 ### LeetCode Profile
-You can find my [LeetCode profile](https://leetcode.com/kulevetsav/) here, where I solve programming problems.
+![image](https://github.com/AliakseiKuliavets/AliakseiKuliavets/assets/132812649/8f6c35fb-f57c-420a-856b-ebc48b127619) You can find my  [LeetCode profile](https://leetcode.com/kulevetsav/)  here, where I solve programming problems.
 
 
 <!--
