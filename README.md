@@ -2,9 +2,14 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-### LeetCode Profile
-![image](https://github.com/AliakseiKuliavets/AliakseiKuliavets/assets/132812649/8f6c35fb-f57c-420a-856b-ebc48b127619) You can find my  [LeetCode profile](https://leetcode.com/kulevetsav/)  here, where I solve programming problems.
-
+<div id="badges">
+  <a href="https://www.linkedin.com/in/aliaksei-kuliavets-351027280/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://leetcode.com/kulevetsav/">
+    <img src="https://img.shields.io/badge/Leetcode_yellow?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
 
 <!--
 **AliakseiKuliavets/AliakseiKuliavets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
