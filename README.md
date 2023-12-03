@@ -24,6 +24,12 @@
 ![Spring Framework](https://img.icons8.com/color/96/000000/spring-logo.png)
 ![Git](https://img.icons8.com/color/96/000000/git.png)
 
+### My Stat
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliakseiKuliavets&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AliakseiKuliavets&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AliakseiKuliavets&theme=github_dark" alt=""/>
+</div>
 
 
 
