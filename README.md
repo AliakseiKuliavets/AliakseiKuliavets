@@ -18,11 +18,10 @@
 ---
 ### Languages and tools
 [![Java](https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png)](ссылка)
-![IntelliJ IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png) 
-[![SQL](https://img.icons8.com/color/48/000000/sql.png)](ссылка)
-[![Maven](https://image.flaticon.com/icons/png/512/888/888839.png)](ссылка)
-[![Spring Framework](https://img.icons8.com/color/48/000000/spring-logo.png)](ссылка)
-[![Mockito](https://cdn.worldvectorlogo.com/logos/mockito.svg)](ссылка)
+[![IntelliJ IDEA](https://img.icons8.com/color/96/000000/intellij-idea.png)](ссылка)
+[![SQL](https://img.icons8.com/color/96/000000/sql.png)](ссылка)
+[![Spring Framework](https://img.icons8.com/color/96/000000/spring-logo.png)](ссылка)
+
 
 
 
