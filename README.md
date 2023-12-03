@@ -7,7 +7,7 @@
     <a href="[linkedin-url](https://www.linkedin.com/in/aliaksei-kuliavets-351027280/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="[leetcode-url](https://leetcode.com/kulevetsav/)">
+    <a href="https://leetcode.com/kulevetsav/">
     <img src="https://img.shields.io/badge/LeetCode-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
     </a>
 </div>
