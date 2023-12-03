@@ -17,11 +17,11 @@
 
 ---
 ### Languages and tools
-![Java](https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146459.png)
+[![Java](https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png)](ссылка)
 ![IntelliJ IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png) 
-[![SQL](https://image.flaticon.com/icons/png/512/29/29165.png)](ссылка)
+[![SQL](https://img.icons8.com/color/48/000000/sql.png)](ссылка)
 [![Maven](https://image.flaticon.com/icons/png/512/888/888839.png)](ссылка)
-[![Spring Framework](https://image.flaticon.com/icons/png/512/919/919854.png)](ссылка)
+[![Spring Framework](https://img.icons8.com/color/48/000000/spring-logo.png)](ссылка)
 [![Mockito](https://cdn.worldvectorlogo.com/logos/mockito.svg)](ссылка)
 
 
