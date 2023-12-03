@@ -16,6 +16,14 @@
 - 🌍 I speak English, Russian, Polish
 
 ---
+### Languages and tools
+![Java](https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146459.png)
+![IntelliJ IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png) 
+[![SQL](https://image.flaticon.com/icons/png/512/29/29165.png)](ссылка)
+[![Maven](https://image.flaticon.com/icons/png/512/888/888839.png)](ссылка)
+[![Spring Framework](https://image.flaticon.com/icons/png/512/919/919854.png)](ссылка)
+[![Mockito](https://cdn.worldvectorlogo.com/logos/mockito.svg)](ссылка)
+
 
 
 <!--
