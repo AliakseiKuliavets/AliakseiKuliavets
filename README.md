@@ -20,12 +20,14 @@
 
 ---
 ### Languages and tools
-![Java](https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png)
-![IntelliJ IDEA](https://img.icons8.com/color/96/000000/intellij-idea.png)
-![Hibernate](https://img.icons8.com/color/96/000000/hibernate.png)
-![PostgreSQL](https://img.icons8.com/color/96/000000/postgreesql.png)
-![Spring Framework](https://img.icons8.com/color/96/000000/spring-logo.png)
-![Git](https://img.icons8.com/color/96/000000/git.png)
+![Java](https://img.icons8.com/color/72/000000/java-coffee-cup-logo--v1.png)
+![IntelliJ IDEA](https://img.icons8.com/color/72/000000/intellij-idea.png)
+![Hibernate](https://img.icons8.com/color/72/000000/hibernate.png)
+![MySQL](https://img.icons8.com/color/72/000000/mysql-logo.png)
+![Spring Framework](https://img.icons8.com/color/72/000000/spring-logo.png)
+![Git](https://img.icons8.com/color/72/000000/git.png)
+![Linux](https://img.icons8.com/color/96/000000/linux.png)
+
 
 ### My Stat
 <div id="stat" align="center">
