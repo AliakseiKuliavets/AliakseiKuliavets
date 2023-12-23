@@ -14,7 +14,7 @@
 
 ### About me
 - 🌱 I’m currently learning **Java**
-- 📄 Know about me [CV](https://drive.google.com/file/d/1zpjmJIoa-q7myG2D1j_TgLGAcmOQiZ7P/view?usp=sharing)
+- 📄 Know about me [CV](https://drive.google.com/file/d/1u7lD4h0FmeC0URJbLrrKIPCzfhg6JBNl/view?usp=sharing)
 - 📫 Reach me by  email: kulevetsav@gmail.com
 - 🌍 I speak Russian, Polish, English
 
