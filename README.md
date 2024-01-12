@@ -20,13 +20,15 @@
 
 ---
 ### Languages and tools
-![Java](https://img.icons8.com/color/72/000000/java-coffee-cup-logo--v1.png)
-![IntelliJ IDEA](https://img.icons8.com/color/72/000000/intellij-idea.png)
-![Hibernate](https://img.icons8.com/color/72/000000/hibernate.png)
-![MySQL](https://img.icons8.com/color/72/000000/mysql-logo.png)
-![Spring Framework](https://img.icons8.com/color/72/000000/spring-logo.png)
-![Git](https://img.icons8.com/color/72/000000/git.png)
-![Linux](https://img.icons8.com/color/72/000000/linux.png)
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" title="java" width="70" height="70"/>&nbsp;
+<img src="https://img.icons8.com/color/96/000000/intellij-idea.png" title="intellij-idea" width="70" height="70"/>&nbsp;
+<img src="https://img.icons8.com/color/72/000000/hibernate.png" title="Hibernate" width="70" height="70"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" title="mysql" width="70" height="70"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" title="spring" width="70" height="70"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" title="linux" width="70" height="70"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" title="bash" width="70" height="70"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="70" height="70"/>&nbsp;
+<img src="https://cdn.simpleicons.org/postman/FF6C37" title="postman" width="70" height="70"/>&nbsp;
 
 
 ### My Stat
