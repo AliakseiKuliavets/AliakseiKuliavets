@@ -16,6 +16,7 @@
 - 🌱 I’m currently learning **Java**
 - 📫 Reach me by  email: kulevetsav@gmail.com
 - 🌍 I speak Russian, Polish, English
+- 📄 Get to know me [CV](https://drive.google.com/file/d/1Q24qn5gj68dQmw1mtLRyJ4nYotNfrkH4/view?usp=sharing)
 
 ---
 ### Languages and tools
@@ -43,7 +44,7 @@
 **AliakseiKuliavets/AliakseiKuliavets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 📄 Get to know me [CV](https://drive.google.com/file/d/1u7lD4h0FmeC0URJbLrrKIPCzfhg6JBNl/view?usp=sharing)
+- 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
