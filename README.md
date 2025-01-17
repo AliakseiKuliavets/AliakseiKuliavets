@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **Java**
 - 📫 Reach me by  email: kulevetsav@gmail.com
 - 🌍 I speak Russian, Polish, English
-- 📄 Get to know me [CV](https://drive.google.com/file/d/1Q24qn5gj68dQmw1mtLRyJ4nYotNfrkH4/view?usp=sharing)
+- 📄 Get to know me [CV]()
 
 ---
 ### Languages and tools
