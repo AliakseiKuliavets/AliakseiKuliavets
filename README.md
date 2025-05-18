@@ -17,8 +17,8 @@
 - 📫 Reach me by  email: kulevetsav@gmail.com
 - 🌍 I speak Russian, Polish, English
 - 📄 Get to know me [CV]()
+-->
 
----
 ### Languages and tools
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" title="java" width="70" height="70"/>&nbsp;
 <img src="https://img.icons8.com/color/96/000000/intellij-idea.png" title="intellij-idea" width="70" height="70"/>&nbsp;
