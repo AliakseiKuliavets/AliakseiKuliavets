@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LeetCode-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
     </a>
 </div>
-
+<!--
 ### About me
 - 🌱 I’m currently learning **Java**
 - 📫 Reach me by  email: kulevetsav@gmail.com
